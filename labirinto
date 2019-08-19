@@ -1,0 +1,7 @@
+Stanze:Stanza Atrio, Stanza Aula-N11, Stanza Aula-N10, Stanza Laboratorio-Campus, Stanza Biblioteca, StanzaBuia Aula-n18 lanterna, StanzaBloccata Aula-n17 osso Nord, StanzaMagica Aula-n20
+Inizio:Atrio
+Vincente:Biblioteca
+Attrezzi:lanterna 3 Aula-N10, osso 1 Atrio
+Uscite:Atrio Nord Biblioteca, Atrio Est Aula-N11, Atrio Sud Aula-N10, Atrio n18 Aula-n18, Atrio n17 Aula-n17, Aula-n18 Nord Atrio, Atrio Ovest Laboratorio-Campus, Aula-N11 Est Laboratorio-Campus, Aula-N11 Ovest Laboratorio-Campus, Aula-N10 Nord Atrio, Aula-N10 Est Aula-N11, Aula-N10 Ovest Laboratorio-Campus, Laboratorio-Campus Est Atrio, Laboratorio-Campus Ovest Aula-N11, Biblioteca Sud Atrio, Atrio magia Aula-n20, Aula-n17 Nord Atrio, Aula-n17 Sud Aula-n18, Aula-n18 unica Atrio, Aula-n20 unica Atrio
+Personaggi:Mago Mago Sono-un-mago passepartout 2 laboratorio, Strega Strega Sono-una-strega Aula-n10, Cane Cane BAU! Aula-N11
+
